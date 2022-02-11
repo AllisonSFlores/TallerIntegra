@@ -1,5 +1,6 @@
 ###Taller de GitHub y Python
 ###Allison, Joctan y Pamela
+###Modificacion1
 def calculadoraChiquita():
 
 
@@ -12,6 +13,7 @@ def calculadoraChiquita():
         print("3. Division")   
         print("4. Multipliacación")         
         print("0. Salir")
+        print("Gracias")
         opcionSeleccionada = input("Digite la opcion que desea --->  ")
 
 
